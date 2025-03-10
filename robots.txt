@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wlinny.com/sitemap.xml
+Sitemap: https://en.wlinny.com/sitemap.xml
